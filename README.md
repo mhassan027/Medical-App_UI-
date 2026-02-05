@@ -1,4 +1,4 @@
 # Medical-App-UI-
-UI for medical app created 
-Author Hassan Irshad
+UI for medical app created.
+Author_Hassan Irshad
 
